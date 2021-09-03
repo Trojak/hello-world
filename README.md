@@ -1,2 +1,4 @@
 # hello-world
-why the hell not 
+
+Hi, Dominik here. 
+I´m looking forward to this. 
